@@ -2,7 +2,7 @@
 
 > Discover insights from data via Python and SQL.
 
-## What I've learned (Summary)
+## Skills Acquired (Summary)
 
 Lorem Ipsum
 

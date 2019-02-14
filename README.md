@@ -2,6 +2,10 @@
 
 > Discover insights from data via Python and SQL.
 
+## What I've learned (Summary)
+
+Lorem Ipsum
+
 ## Project Overview
 ### P0: Explore Weather Trends
 
@@ -9,6 +13,6 @@
 
 ### P2: Analyze A/B Test Results
 
-### P3: Wrangle, Clean and AnalyzeU Twitter Data
+### P3: Wrangle, Clean and Analyze Twitter Data
 
 

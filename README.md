@@ -6,6 +6,23 @@
 
 Lorem Ipsum
 
+### Prerequisites
+
+You'll need to install:
+
+* [Python (3.x or higher)](https://www.python.org/downloads/)
+* [Jupyter Notebook](https://jupyter.org/)
+* [Numpy](http://www.numpy.org/)
+* [Pandas](http://pandas.pydata.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [Seaborn](https://seaborn.pydata.org/)
+
+And additional libraries defined in each project.
+
+Or go the quick way by installing the Anaconda distribution:
+
+* [Anaconda](https://www.anaconda.com/distribution/#download-section)
+
 ## Project Overview
 ### P0: Explore Weather Trends
 

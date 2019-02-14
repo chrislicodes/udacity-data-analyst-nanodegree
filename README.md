@@ -30,7 +30,7 @@ Or go the quick way by installing the Anaconda distribution:
 
 ### P2: Analyze A/B Test Results
 
-### P3: Wrangle, Clean and Analyze Twitter Data
+### P3: Gather, Clean and Analyze Twitter Data
 
 ### P4: Communicate Data Findings
 

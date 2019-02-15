@@ -26,6 +26,13 @@ Or go the quick way by installing the Anaconda distribution:
 ## Project Overview
 ### P0: Explore Weather Trends
 
+This first "warm - up" project required the following steps:
+* Extract data from a database using a SQL query
+* Calculate a moving average
+* Create a line chart 
+
+I analyzed local and global temperature data and compared the temperature trends in three german cities to overall global temperature trends. After some data cleaning I created a function to assist the data processing and visualization with some options to play around with. This included also the calculation of a simple linear regression.
+
 ### P1: Investigate a Dataset (Gapminder World Dataset)
 
 ### P2: Analyze A/B Test Results

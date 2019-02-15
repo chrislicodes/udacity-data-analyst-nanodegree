@@ -33,9 +33,7 @@ This first "warm - up" project required the following steps:
 
 I analyzed local and global temperature data and compared the temperature trends in three german cities to overall global temperature trends. After some data cleaning I created a function to assist the data processing and visualization with some options to play around with. This included also the calculation of a simple linear regression.
 
-![Test](Udacity-Data-Analyst-Nanodegree/global_weather_trend.png)
-
-
+![Global Weather Trend](https://github.com/DataLind/Udacity-Data-Analyst-Nanodegree/blob/master/global_weather_trend.png)
 
 ### P1: Investigate a Dataset (Gapminder World Dataset)
 

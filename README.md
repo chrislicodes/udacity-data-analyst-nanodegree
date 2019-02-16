@@ -4,7 +4,6 @@
 
 ## Skills Acquired (Summary)
 
-Lorem Ipsum
 
 ### Prerequisites
 

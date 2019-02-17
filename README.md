@@ -42,6 +42,8 @@ The biggest challenge here was to find and ask interesting and right questions. 
 
 It was also interesting how important reusable code is, because it can make your analysis so much easier, readable and faster.
 
+![Life Expectancy To Income 2018](https://github.com/DataLind/Udacity-Data-Analyst-Nanodegree/blob/master/life_expectancy_to_income_2018.png)
+
 ### P2: Analyze A/B Test Results
 
 ### P3: Gather, Clean and Analyze Twitter Data

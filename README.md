@@ -36,6 +36,12 @@ I analyzed local and global temperature data and compared the temperature trends
 
 ### P1: Investigate a Dataset (Gapminder World Dataset)
 
+In this project I learned all steps which are involved in a typical data analysis process. I posed questions and answered them after I gathered, cleaned and wrangled the data into an usable format. After that I communicated the results in several ways. 
+
+The biggest challenge here was to find and ask interesting and right questions. Also the fact, that you have to inform yourself very intensely about the data to understand the outcomes got amplified with this project.
+
+It was also interesting how important reusable code is, because it can make your analysis so much easier, readable and faster.
+
 ### P2: Analyze A/B Test Results
 
 ### P3: Gather, Clean and Analyze Twitter Data

@@ -38,6 +38,13 @@ I analyzed local and global temperature data and compared the temperature trends
 
 In this project I learned all steps which are involved in a typical data analysis process. I posed questions and answered them after I gathered, cleaned and wrangled the data into an usable format. After that I communicated the results in several ways. 
 
+Out of the project:
+
+> This project will examine datasets available at Gapminder. To be more specific, it will take a closer look on the life expectancy of the population from different countries and the influences from other variables. It will also take a look on the development of these variables over time and the goal is to find trends which are related to a higher life expectancy. 
+>
+>**What is Gapminder?**
+"Gapminder is an independent Swedish foundation with no political, religious or economic affiliations. Gapminder is a fact tank, not a think tank. Gapminder fights devastating misconceptions about global development." (https://www.gapminder.org/about-gapminder/)
+
 The biggest challenge here was to find and ask interesting and right questions. Also the fact, that you have to inform yourself very intensely about the data to understand the outcomes got amplified with this project.
 
 It was also interesting how important reusable code is, because it can make your analysis so much easier, readable and faster.

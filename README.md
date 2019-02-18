@@ -45,7 +45,7 @@ Out of the project:
 >**What is Gapminder?**
 "Gapminder is an independent Swedish foundation with no political, religious or economic affiliations. Gapminder is a fact tank, not a think tank. Gapminder fights devastating misconceptions about global development." (https://www.gapminder.org/about-gapminder/)
 
-The biggest challenge here was to find and ask interesting and right questions. Also the fact, that you have to inform yourself very intensely about the data to understand the outcomes got amplified with this project.
+The biggest challenge here was to find and ask interesting and right questions. Also the fact that you have to inform yourself very intensely about the data to understand the outcomes got amplified strongly.
 
 It was also interesting how important reusable code is, because it can make your analysis so much easier, readable and faster.
 

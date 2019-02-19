@@ -53,6 +53,12 @@ It was also interesting how important reusable code is, because it can make your
 
 ### P2: Analyze A/B Test Results
 
+To goal of this project was getting experience with A/B testing and the difficulties and drawbacks of it. At first we learned what A/B testing is all about, then we learned different metrics like the Click Through Rate (CTR) and how to analyze these metrics properly. We also learned about the drawbacks like the novelty effect or change aversion. 
+
+Overall we brought everything we've learned in the "Pracitcal Statistics" part together to analyze this A/B test properly (Probabilites, Hypothesis Testing, Sampling Distribution/Bootstrapping, Logistic Regression).
+
+![Sampling distribution](https://github.com/DataLind/Udacity-Data-Analyst-Nanodegree/blob/master/sampling_dist.png)
+
 ### P3: Gather, Clean and Analyze Twitter Data
 
 ### P4: Communicate Data Findings

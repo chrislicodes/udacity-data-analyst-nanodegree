@@ -25,7 +25,7 @@ Or go the quick way by installing the Anaconda distribution:
 ## Project Overview
 ### P0: Explore Weather Trends
 
-This first "warm - up" project required the following steps:
+This first project required the following steps:
 * Extract data from a database using a SQL query
 * Calculate a moving average
 * Create a line chart 

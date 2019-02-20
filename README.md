@@ -59,7 +59,7 @@ Overall we brought everything we've learned in the "Pracitcal Statistics" part t
 
 ![Sampling distribution](https://github.com/DataLind/Udacity-Data-Analyst-Nanodegree/blob/master/sampling_dist.png)
 
-### P3: Gather, Clean and Analyze Twitter Data
+### P3: Gather, Clean and Analyze Twitter Data (WeRateDogs™ (@dog_rates))
 
 ### P4: Communicate Data Findings
 

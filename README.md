@@ -61,6 +61,8 @@ Overall we brought everything we've learned in the "Pracitcal Statistics" part t
 
 ### P3: Gather, Clean and Analyze Twitter Data (WeRateDogs™ (@dog_rates))
 
+![Mean of retweets](https://github.com/DataLind/Udacity-Data-Analyst-Nanodegree/blob/master/mean_of_retweets_per_month-year_combination.png)
+
 ### P4: Communicate Data Findings
 
 

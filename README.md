@@ -65,6 +65,14 @@ Overall we brought everything we've learned in the "Pracitcal Statistics" part t
 
 ### P4: Communicate Data Findings
 
+Notes to be added:
+
+- chart junk
+- data types
+- univariate, bivariate, multivariate
+- use of color
+- data ink/ratio
+- lie factor
 
 ## License
 

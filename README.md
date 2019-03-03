@@ -59,6 +59,8 @@ Overall we brought everything we've learned in the "Pracitcal Statistics" part t
 
 ### P3: Gather, Clean and Analyze Twitter Data (WeRateDogs™ (@dog_rates))
 
+In this project we had to deal with the reality of dirty and messy data (again). We gathered data from different sources (for example the Twitter API), identified issues with this data in terms of tidiness and quality and solved this problems while documenting each step of this process. The cleaning steps involved simple techniques like changing the datatypes as also more advanced techniques like extracting new information out of strings via regular expressions. 
+
 ![Mean of retweets](https://github.com/DataLind/Udacity-Data-Analyst-Nanodegree/blob/master/mean_of_retweets_per_month-year_combination.png)
 
 ### P4: Communicate Data Findings

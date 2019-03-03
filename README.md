@@ -36,7 +36,7 @@ I analyzed local and global temperature data and compared the temperature trends
 
 ### P1: Investigate a Dataset (Gapminder World Dataset)
 
-In this project I learned all steps which are involved in a typical data analysis process. I posed questions and answered them after I gathered, cleaned and wrangled the data into an usable format. After that I communicated the results in several ways. 
+This project involved all steps needed in a typical data analysis process. This includes posing questions, gather, wrangle and clean data and answer the posed questions, assisted through visualizations and statistics.  
 
 Out of the project:
 
@@ -45,15 +45,13 @@ Out of the project:
 >**What is Gapminder?**
 "Gapminder is an independent Swedish foundation with no political, religious or economic affiliations. Gapminder is a fact tank, not a think tank. Gapminder fights devastating misconceptions about global development." (https://www.gapminder.org/about-gapminder/)
 
-The biggest challenge here was to find and ask interesting and right questions. Also the fact that you have to inform yourself very intensely about the data to understand the outcomes got amplified strongly.
-
-It was also interesting how important reusable code is, because it can make your analysis so much easier, readable and faster.
+The biggest challenge here was to find and ask interesting and the 'right' questions. 
 
 ![Life Expectancy To Income 2018](https://github.com/DataLind/Udacity-Data-Analyst-Nanodegree/blob/master/life_expectancy_to_income_2018.png)
 
 ### P2: Analyze A/B Test Results
 
-To goal of this project was getting experience with A/B testing and the difficulties and drawbacks of it. At first we learned what A/B testing is all about, then we learned different metrics like the Click Through Rate (CTR) and how to analyze these metrics properly. We also learned about the drawbacks like the novelty effect or change aversion. 
+To goal of this project was getting experience with A/B testing and the difficulties and drawbacks of it. At first we learned what A/B testing is all about - including different metrics like the Click Through Rate (CTR) and how to analyze these metrics properly. We also learned about the drawbacks like the novelty effect or change aversion. 
 
 Overall we brought everything we've learned in the "Pracitcal Statistics" part together to analyze this A/B test properly (Probabilites, Hypothesis Testing, Sampling Distribution/Bootstrapping, Logistic Regression).
 

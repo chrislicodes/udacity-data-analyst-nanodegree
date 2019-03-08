@@ -7,6 +7,7 @@ Additional installations:
 
 * [Missingno](https://github.com/ResidentMario/missingno)
 * [Tweepy](http://www.tweepy.org/)
+* [Requests](http://docs.python-requests.org/en/master/)
 
 ## Project Overview
 

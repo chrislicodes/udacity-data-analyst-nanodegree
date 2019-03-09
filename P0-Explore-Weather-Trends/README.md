@@ -40,6 +40,7 @@ I analyzed local and global temperature data and compared the temperature trends
 * Method of gathering: SQL
 
 ### Wrangling
+* Cut data to years 1750 - 2013
 
 ### Analysis
 

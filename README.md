@@ -65,6 +65,7 @@ In this project we had to deal with the reality of dirty and messy data (again).
 
 ### P4: Communicate Data Findings
 
+![Relative Userfrequncy by gender and area](https://github.com/DataLind/Udacity-Data-Analyst-Nanodegree/blob/master/rel_userfreq_by_gender_and_area.png)
 Notes to be added:
 
 - chart junk

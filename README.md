@@ -57,13 +57,16 @@ Here we were confronted with the full joy of a real-life dataset: from hard-to-a
 
 ### P2: Analyze A/B Test Results
 
-To goal of this project was getting experience with A/B testing and the difficulties and drawbacks of it. At first we learned what A/B testing is all about - including different metrics like the Click Through Rate (CTR) and how to analyze these metrics properly. We also learned about the drawbacks like the novelty effect or change aversion. 
+This chapter was filled with *a lot* of information. We talked about: Data Types, Notation, Mean, Standard Deviation, Correlation, Data Shapes, Outliers, Bias, Dangers, Probability and Bayes, Distributions, Central Limit Theorem, Bootstrapping, Confidence Intervals, Hypothesis Testing, A/B Tests, Linear Regression, Logistic Regression and more.. *heavy breathing
 
-Overall we brought everything we've learned in the "Pracitcal Statistics" part together to analyze this A/B test properly (Probabilites, Hypothesis Testing, Sampling Distribution/Bootstrapping, Logistic Regression).
+To goal of the project in this chapter was then to get experience with A/B testing and the difficulties and drawbacks of it. At first we learned what A/B testing is all about - including different metrics like the Click Through Rate (CTR) and how to analyze these metrics properly. We also learned about the drawbacks like the novelty effect or change aversion. 
+
+Overall we brought everything we've learned together to analyze this A/B test properly.
 
 ![Sampling distribution](https://github.com/DataLind/Udacity-Data-Analyst-Nanodegree/blob/master/sampling_dist.png)
 
 ### P3: Gather, Clean and Analyze Twitter Data (WeRateDogs™ (@dog_rates))
+
 
 In this project we had to deal with the reality of dirty and messy data (again). We gathered data from different sources (for example the Twitter API), identified issues with this data in terms of tidiness and quality and solved this problems while documenting each step of this process. The cleaning steps involved simple techniques like changing the datatypes as also more advanced techniques like extracting new information out of strings via regular expressions. 
 

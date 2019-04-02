@@ -67,8 +67,9 @@ Overall we brought everything we've learned together to analyze this A/B test pr
 
 ### P3: Gather, Clean and Analyze Twitter Data (WeRateDogs™ (@dog_rates))
 
+This chapter was a deep dive into the data wrangling part of the data analysis process. We learned about the difference between messy and dirty data, how tidy data is defined, about the assessing, defining, cleaning and testing process and more. Also we talked about many different file types and different methods of gathering data. 
 
-In this project we had to deal with the reality of dirty and messy data (again). We gathered data from different sources (for example the Twitter API), identified issues with this data in terms of tidiness and quality and solved this problems while documenting each step of this process. The cleaning steps involved simple techniques like changing the datatypes as also more advanced techniques like extracting new information out of strings via regular expressions. 
+In this project we had to deal with the reality of dirty and messy data (again). We gathered data from different sources (for example the Twitter API), identified issues with the dataset in terms of tidiness and quality and solved this problems while documenting each step. At the end followed the exploration of the data. 
 
 ![Mean of retweets](https://github.com/DataLind/Udacity-Data-Analyst-Nanodegree/blob/master/mean_of_retweets_per_month-year_combination.png)
 

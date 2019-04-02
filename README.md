@@ -18,34 +18,40 @@ You'll need to install:
 
 And additional libraries defined in each project.
 
-Or go the quick way by installing the Anaconda distribution:
+Recommended:
 
 * [Anaconda](https://www.anaconda.com/distribution/#download-section)
 
 ## Project Overview
 ### P0: Explore Weather Trends
 
-This first project required the following steps:
+This first chapter was an introduction to the following projects of the Data Analyst Nanodegree.
+
+The project of this chapter was about weather trends - it required (atleast) the following steps:
 * Extract data from a database using a SQL query
 * Calculate a moving average
 * Create a line chart 
 
-I analyzed local and global temperature data and compared the temperature trends in three german cities to overall global temperature trends. After some data cleaning I created a function to assist the data processing and visualization with some options to play around with. This included also the calculation of a simple linear regression to visualize trends.
+I analyzed local and global temperature data and compared the temperature trends in three german cities to overall global temperature trends. After a bit of data cleaning I created a function, which is supposed to handle all the tasks that are needed to plot the data - for example calculating the linear trend and calculating the rolling average. Also the function has some options for the visualization to play around with.
+
+**Key findings**: the average global temperature is increasing, with an also increasing tempo and Berlin is the only city in Germany in this dataset which has a higher average temperature than the global average.
 
 ![Global Weather Trend](https://github.com/DataLind/Udacity-Data-Analyst-Nanodegree/blob/master/global_weather_trend.png)
 
 ### P1: Investigate a Dataset (Gapminder World Dataset)
 
-This project involved all steps needed in a typical data analysis process. This includes posing questions, gather, wrangle and clean data and answer the posed questions, assisted through visualizations and statistics.  
+This chapter was all about the data analysis process as whole. From gathering to cleaning, assessing and wrangling to exploring and visualizing the data over the programming workflow and communication was everything included. 
+
+This project involved therefore also all steps needed in a typical data analysis process. This includes posing questions, gather, wrangle and clean data and communicate answers to the questions assisted through visualizations and statistics. 
 
 Out of the project:
 
-> This project will examine datasets available at Gapminder. To be more specific, it will take a closer look on the life expectancy of the population from different countries and the influences from other variables. It will also take a look on the development of these variables over time and the goal is to find trends which are related to a higher life expectancy. 
+> This project will examine datasets available at Gapminder. To be more specific, it will take a closer look on the life expectancy of the population from different countries and the influences from other variables. It will also take a look on the development of these variables over time.
 >
 >**What is Gapminder?**
 "Gapminder is an independent Swedish foundation with no political, religious or economic affiliations. Gapminder is a fact tank, not a think tank. Gapminder fights devastating misconceptions about global development." (https://www.gapminder.org/about-gapminder/)
 
-The biggest challenge here was to find and ask interesting and the 'right' questions. 
+Here we were confronted with the full joy of a real-life dataset: from hard-to-analyze structure, missing, messy, dirty data to real and - after finally being done with data wrangling - the reward of interesting insights. 
 
 ![Life Expectancy To Income 2018](https://github.com/DataLind/Udacity-Data-Analyst-Nanodegree/blob/master/life_expectancy_to_income_2018.png)
 

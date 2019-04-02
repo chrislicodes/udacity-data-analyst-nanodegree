@@ -75,15 +75,11 @@ In this project we had to deal with the reality of dirty and messy data (again).
 
 ### P4: Communicate Data Findings
 
-![Relative Userfrequncy by gender and area](https://github.com/DataLind/Udacity-Data-Analyst-Nanodegree/blob/master/rel_userfreq_by_gender_and_area.png)
-Notes to be added:
+For the final project, we learned about a proper visualization of data. We learned about chart junk, uni-, bi- and multivariate visualization, use of color, data/ink ratio, the lief factor, other encodings, [...]. 
 
-- chart junk
-- data types
-- univariate, bivariate, multivariate
-- use of color
-- data ink/ratio
-- lie factor
+In the final project the task was to analyze and visualize real-world data. I chose the Ford GoBike dataset.
+
+![Relative Userfrequncy by gender and area](https://github.com/DataLind/Udacity-Data-Analyst-Nanodegree/blob/master/rel_userfreq_by_gender_and_area.png)
 
 ## License
 

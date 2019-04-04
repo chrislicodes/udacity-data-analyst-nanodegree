@@ -21,9 +21,19 @@ Additional installations:
 
 ### Wrangling
 
-### Analysis
+For the analysis, following countries were dropped out of the dataframe due to too much missing data:
+
+- Andorra, Dominica, Holy See, Liechtenstein, Marshall Islands, Monaco, Nauru, Palau, San Marino, St. Kitts and Nevis, Tuvalu
 
 ### Summary
+
+- We can observe an overall and ongoing uptrend for the world population, the income per person and the life expectation
+
+- especially between 1950 and 1975 was a starting point for a strong increase in all three metrics
+
+- the world population is increasing strongly and one observable reason for that is the increase in the overall life expectancy
+
+- we also found out that there is a relationship between the income per person and the life expectancy. An increasing income is no guarantee for an also increasing life expectancy, but it is correlated
 
 ### Authors
 

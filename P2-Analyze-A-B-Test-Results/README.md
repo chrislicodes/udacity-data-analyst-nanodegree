@@ -10,17 +10,8 @@ Additional installations:
 
 ### Data Sources
 
-**Name:** 
-* Definition: 
-* Source: 
-* Version: 
-* Method of gathering: 
-
-### Wrangling
-
-### Analysis
-
-### Summary
+**Name: ab_data.csv** 
+* Source: Udacity
 
 ### Authors
 

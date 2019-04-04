@@ -55,7 +55,7 @@ Additional installations:
 > How did the account develop (speaking about number of tweets, retweets, favorites, image number and length of the tweets)?
 - We found, that the number of tweets per month decreased, while the retweets and favorites show an uptrend. For the image numbers there is no clear trend visible, the length of the tweets got a little bit closer to the maximum of 130 in the second half of the dataset.
 > Is there a pattern visible in the timing of the tweets?
-- there are nearly no tweets at all between 5 and 15 'o clock . The most tweets are during the time from 0 - 4 and then again from 15 - 23
+- there are nearly no tweets at all between 5 and 15 'o clock . The most tweets are during the time from 0 - 4 and then again from 15 - 23 'o clock
 
 ### Authors
 

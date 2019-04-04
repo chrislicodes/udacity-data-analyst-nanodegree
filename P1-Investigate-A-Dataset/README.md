@@ -13,11 +13,23 @@ Additional installations:
 
 ### Data Sources
 
-**Name:** 
-* Definition: 
-* Source: 
-* Version: 
-* Method of gathering: 
+**Name: Population total**
+
+- Definition: Total population
+- Source: http://gapm.io/dpop
+- Version: 5
+
+**Name: Life expectancy (years)**
+
+- Definition: The average number of years a newborn child would live if current mortality patterns were to stay the same.
+- Source: http://gapm.io/ilex
+- Version: 9
+
+**Name: Income per person (GPD/Capita, PPP$ inflation-adjusted)**
+
+- Definition: Gross domestic product per person adjusted for differences in purchasing power (in international dollars, fixed 2011 prices, PPP based on 2011 ICP).
+- Source: http://gapm.io/dgdppc
+- Version: 25
 
 ### Wrangling
 

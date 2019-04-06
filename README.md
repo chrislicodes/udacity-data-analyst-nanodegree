@@ -25,16 +25,18 @@ Recommended:
 ## Project Overview
 ### P0: Explore Weather Trends
 
-This first chapter was an introduction to the following projects of the Data Analyst Nanodegree.
+The first chapter was an introduction to the following projects of the Data Analyst Nanodegree.
 
-The project of this chapter was about weather trends - it required (atleast) the following steps:
+First chapter project was about weather trends - it required to apply (atleast) the following steps:
 * Extract data from a database using a SQL query
 * Calculate a moving average
 * Create a line chart 
 
-I analyzed local and global temperature data and compared the temperature trends in three german cities to overall global temperature trends. After a bit of data cleaning I created a function, which is supposed to handle all the tasks that are needed to plot the data - for example calculating the linear trend and calculating the rolling average. Also the function has some options for the visualization to play around with.
+I analyzed local and global temperature data and compared the temperature trends in three german cities to overall global temperature trends. After cleaning the data, I've created a function, which was supposed to handle all the tasks that are needed to plot the data - for example calculating the linear trend and calculating the rolling average. In addition, the function had other various options for the visualization to get various graphs.
 
-**Key findings**: the average global temperature is increasing, with an also increasing tempo and Berlin is the only city in Germany in this dataset which has a higher average temperature than the global average.
+**Key findings**:
+- the average global temperature is increasing, with an also increasing tempo
+- Berlin is the only city in Germany in this dataset which has a higher average temperature than the global average
 
 ![Global Weather Trend](https://github.com/DataLind/Udacity-Data-Analyst-Nanodegree/blob/master/global_weather_trend.png)
 
@@ -42,7 +44,11 @@ I analyzed local and global temperature data and compared the temperature trends
 
 This chapter was all about the data analysis process as whole. From gathering to cleaning, assessing and wrangling to exploring and visualizing the data over the programming workflow and communication was everything included. 
 
-This project involved therefore also all steps needed in a typical data analysis process. This includes posing questions, gather, wrangle and clean data and communicate answers to the questions assisted through visualizations and statistics. 
+This project included therefore all steps of the typical data analysis process. This includes:
+- posing questions
+- gather, wrangle and clean data 
+- communicate answers to the questions 
+- assited through visualizations and statistics. 
 
 Out of the project:
 
@@ -57,27 +63,27 @@ Here we were confronted with the full joy of a real-life dataset: from hard-to-a
 
 ### P2: Analyze A/B Test Results
 
-This chapter was filled with *a lot* of information. We talked about: Data Types, Notation, Mean, Standard Deviation, Correlation, Data Shapes, Outliers, Bias, Dangers, Probability and Bayes, Distributions, Central Limit Theorem, Bootstrapping, Confidence Intervals, Hypothesis Testing, A/B Tests, Linear Regression, Logistic Regression and more.. *heavy breathing
+Following chapter was filled with *a lot* of information. We talked about: Data Types, Notation, Mean, Standard Deviation, Correlation, Data Shapes, Outliers, Bias, Dangers, Probability and Bayes, Distributions, Central Limit Theorem, Bootstrapping, Confidence Intervals, Hypothesis Testing, A/B Tests, Linear Regression, Logistic Regression and more.. *heavy breathing
 
-To goal of the project in this chapter was then to get experience with A/B testing and the difficulties and drawbacks of it. At first we learned what A/B testing is all about - including different metrics like the Click Through Rate (CTR) and how to analyze these metrics properly. We also learned about the drawbacks like the novelty effect or change aversion. 
+To goal of the project in this chapter was to get experience with A/B testing, it's difficulties and drawbacks of it. First of all, we learned what A/B testing is all about - including different metrics like the Click Through Rate (CTR) and how to analyze these metrics properly. And second of all, we learned about the drawbacks like the novelty effect or change aversion. 
 
-Overall we brought everything we've learned together to analyze this A/B test properly.
+In the end we brought everything we've learned together to analyze this A/B test properly.
 
 ![Sampling distribution](https://github.com/DataLind/Udacity-Data-Analyst-Nanodegree/blob/master/sampling_dist.png)
 
 ### P3: Gather, Clean and Analyze Twitter Data (WeRateDogs™ (@dog_rates))
 
-This chapter was a deep dive into the data wrangling part of the data analysis process. We learned about the difference between messy and dirty data, how tidy data is defined, about the assessing, defining, cleaning and testing process and more. Also we talked about many different file types and different methods of gathering data. 
+This chapter was a deep dive into the data wrangling part of the data analysis process. We learned about the difference between messy and dirty data, how tidy data should look like, about the assessing, defining, cleaning and testing process, etc. Moreover, we talked about many different file types and different methods of gathering data. 
 
-In this project we had to deal with the reality of dirty and messy data (again). We gathered data from different sources (for example the Twitter API), identified issues with the dataset in terms of tidiness and quality and solved this problems while documenting each step. At the end followed the exploration of the data. 
+In this project we had to deal with the reality of dirty and messy data (again). We gathered data from different sources (for example the Twitter API), identified issues with the dataset in terms of tidiness and quality. Afterwards we had to solve these problems while documenting each step. The end of the project was then focused on the exploration of the data.
 
 ![Mean of retweets](https://github.com/DataLind/Udacity-Data-Analyst-Nanodegree/blob/master/mean_of_retweets_per_month-year_combination.png)
 
 ### P4: Communicate Data Findings
 
-For the final project, we learned about a proper visualization of data. We learned about chart junk, uni-, bi- and multivariate visualization, use of color, data/ink ratio, the lief factor, other encodings, [...]. 
+The final chapter was focused on proper visualization of data. We learned about chart junk, uni-, bi- and multivariate visualization, use of color, data/ink ratio, the lief factor, other encodings, [...]. 
 
-In the final project the task was to analyze and visualize real-world data. I chose the Ford GoBike dataset.
+The task of the final project was to analyze and visualize real-world data. I chose the Ford GoBike dataset.
 
 ![Relative Userfrequncy by gender and area](https://github.com/DataLind/Udacity-Data-Analyst-Nanodegree/blob/master/rel_userfreq_by_gender_and_area.png)
 
